@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+npm-debug.log
+newrelic_agent.log
+dist
+coverage
+.nyc_output
+.idea
+.serverless
+.ts-*/
+tests/fixtures
+tests/templates
+.build
